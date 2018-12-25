@@ -1,0 +1,53 @@
+{
+  "name": "DaewonMobile",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-autocomplete-input": "^3.6.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-device-detection": "^0.2.0",
+    "react-native-drawer": "^2.5.0",
+    "react-native-exception-handler": "^2.9.0",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-indicators": "^0.13.0",
+    "react-native-ios-picker": "^1.0.0",
+    "react-native-keyboard-aware-scroll-view": "^0.7.2",
+    "react-native-localization": "^2.0.0",
+    "react-native-menu": "^0.23.0",
+    "react-native-multiple-select": "^0.4.4",
+    "react-native-restart": "0.0.7",
+    "react-native-sectioned-multi-select": "^0.5.2",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-tab-view": "^1.0.2",
+    "react-native-user-avatar": "^1.0.3",
+    "react-native-uuid-generator": "^4.0.1",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.11.2",
+    "react-navigation-material-bottom-tabs": "^0.3.0",
+    "react-redux": "^5.0.7",
+    "reactotron-react-native": "^2.0.0",
+    "reactotron-redux": "^2.0.0",
+    "redux": "^4.0.0",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.0",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

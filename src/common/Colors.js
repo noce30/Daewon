@@ -1,0 +1,20 @@
+export default {
+  ScreenBackground: '#ffffff',
+  AppColor: "#0373b1",
+  AppColorDark: "#075e54",
+  AppBarColor: '#075e54',
+  darkgray : "#a9a9a9",
+  lightgray : "#d3d3d3",
+  tabNaviColor: "#b7c900",
+  tabNaviItemColor: "#666",
+  tabNaviItemActiveColor: "#000",
+  headerText: '#59a727',
+  buttonBackground: "#075e54",
+  buttonText: "#000",
+  switchNormal: '#CCC',
+  switchActive: '#b7c900',
+  text: '#000',
+  AppGreenColor: "rgb(0, 204, 68)",
+  PrimaryColor: "#0373b1",
+  SuccessColor: "#34bfa3"
+}
